@@ -6,7 +6,12 @@ export default defineConfig({
   title: "AWvpn",
   description: "AWvpn",
   head: [
-    ['link', { rel: 'icon', href: '/images/hero3d.png' }]
+    ['link', { rel: 'icon', href: '/images/hero3d.png' }],
+    ['meta', { property: 'og:title', content: 'AWvpn' }],
+    ['meta', { property: 'og:description', content: 'Надежный доступ в интернет' }],
+    ['meta', { property: 'og:image', content: '/images/cover.png' }],
+    ['meta', { property: 'og:url', content: 'https://awvpn.ru' }],
+    ['meta', { property: 'og:type', content: 'website' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
