@@ -1,9 +1,9 @@
-# Установка на iOS
+# Установка на MacOS и Windows
 
 ## Streisand (Рекомендуем)
 
 ::: info Название: Streisand
-Ссылка в AppStore: [Streisand](https://apps.apple.com/ru/app/streisand/id6450534064)
+Ссылка в AppStore: [Streisand](https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=FI)
 :::
 
 ::: tip Возможности:
