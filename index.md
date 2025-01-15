@@ -7,7 +7,7 @@ hero:
   text: "Ваш надежный проводник в интернет"
   tagline: ---
   image:
-    src: /images/hero3d.png
+    src: '/images/hero3d.png'
     alt: VitePress
   actions:
     - theme: brand
