@@ -10,6 +10,8 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/images/hero3d.png',
+
     nav: [
       { text: 'Главная', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
