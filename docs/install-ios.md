@@ -49,9 +49,9 @@
 5. Включите тумблер
 6. Запустите VPN
 
-<img src="/public/images/routing-1.jpg" alt="image" style="max-width: 300px;">  
+<img src="/images/streisand-routing-1.jpg" alt="image" style="max-width: 300px;">  
 .
-<img src="/public/images/routing-2.jpg" alt="image" style="max-width: 300px;">
+<img src="/images/streisand-routing-2.jpg" alt="image" style="max-width: 300px;">
 
 ::: tip Как работает?
 Все соц. сети загружаются с VPN  

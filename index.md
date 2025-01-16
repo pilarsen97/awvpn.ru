@@ -5,17 +5,20 @@ layout: home
 hero:
   name: "AWvpn"
   text: "Ваш надежный проводник в интернет"
-  tagline: ---
+  tagline: Здесь Вы найдете инструкцию по подключению и настройку маршрутизации на разных устройствах
   image:
     src: '/images/hero3d.png'
-    alt: VitePress
+    alt: 'AWvpn'
   actions:
     - theme: brand
-      text: Начать
+      text: С чего начать?
       link: /docs/start
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: brand
+      text: Купить
+      link: https://t.me/pilarsen
+    - theme: alt
+      text: Задать вопрос
+      link: https://t.me/pilarsen
 
 features:
   - icon: 👑

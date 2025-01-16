@@ -3,6 +3,7 @@ import { sidebar } from './sidebar.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'ru-RU',
   title: "AWvpn",
   description: "AWvpn",
   head: [
@@ -19,7 +20,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Главная', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Купить', link: 'https://t.me/pilarsen' }
     ],
 
     sidebar,
@@ -35,6 +36,12 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'telegram', link: 'https://t.me/awvpn' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    },
+
+    cleanUrls: true,
   }
 })
