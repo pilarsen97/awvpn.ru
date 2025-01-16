@@ -38,13 +38,12 @@
 
 2. Зайдите в приложение Streisand
 3. Нажмите на кнопку "Routing"
-4. Выберите "AWvpn Smart Routung"
-5. Включите тумблер
+    - <img src="/images/streisand-routing-2.jpg" alt="image" style="max-width: 300px;">
+4. Выберите "AWvpn Smart Routung" (1 на скрине)
+5. Включите тумблер (2 на скрине)
+    - <img src="/images/streisand-routing-1.jpg" alt="image" style="max-width: 300px;">
 6. Запустите VPN
 
-<img src="/images/streisand-routing-1.jpg" alt="image" style="max-width: 300px;">  
-.
-<img src="/images/streisand-routing-2.jpg" alt="image" style="max-width: 300px;">
 
 ::: tip Как работает?
 Все соц. сети загружаются с VPN  

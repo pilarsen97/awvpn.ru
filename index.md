@@ -14,6 +14,9 @@ hero:
       text: С чего начать?
       link: /docs/start
     - theme: brand
+      text: Подключиться
+      link: /docs/install
+    - theme: brand
       text: Купить
       link: https://t.me/pilarsen
     - theme: alt
