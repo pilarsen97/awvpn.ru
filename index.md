@@ -11,13 +11,13 @@ hero:
     alt: 'AWvpn'
   actions:
     - theme: brand
-      text: С чего начать?
+      text: Инструкции
       link: /docs/start
     - theme: brand
       text: Подключиться
       link: /docs/install
     - theme: brand
-      text: Купить
+      text: Купить подписку
       link: https://t.me/pilarsen
     - theme: alt
       text: Задать вопрос
